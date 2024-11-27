@@ -5,9 +5,19 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
+.Liv > img{
+    width: 50%;
+}
+
+.Liv {
+    background-color:#eda4d7 ;
+}
+.Liv > article{
+    background-color: white;
+}
 
 header {
-    background-color: #4CAF50;
+    background-color: #4caf50;
     color: white;
     text-align: center;
     padding: 1rem 0;
@@ -39,9 +49,10 @@ article p {
 }
 
 footer {
-    background-color: #4CAF50;
+    background-color: #4caf50;
     color: white;
     text-align: center;
     padding: 1rem 0;
     margin-top: 20px;
 }
+
