@@ -45,3 +45,26 @@ footer {
     padding: 1rem 0;
     margin-top: 20px;
 }
+
+#Felix{
+    background-color:aliceblue;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+
+    .container {
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 1fr 1fr;
+        column-gap: 5px;
+       }
+       
+       img {
+         max-width: 100%;
+         max-height:100%;
+         border-radius: 5px;
+       }
+       
+       .text {
+         font-size: 15px;
+       }
+}
