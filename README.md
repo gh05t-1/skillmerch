@@ -1,7 +1,9 @@
 # Skill les 2.2
 
 ## Teamleden (en taken)
-- geef hier de namen van de teamleden
+- Liv
+- Skyler
+- Felix
 
 ## eindproduct
-- type hier een link naar de live-view van het eindproduct op ma-cloud"# skillmerch" 
+[live view](https://38350.hosts2.ma-cloud.nl/merge/les%202.2/) 
